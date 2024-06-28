@@ -13,7 +13,6 @@
         <isIntrospectAllTokens>false</isIntrospectAllTokens>
         <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
         <isPkceRequired>true</isPkceRequired>
-        <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
         <oauthClientCredentialUser>ju.havard+legarant@gmail.com</oauthClientCredentialUser>
         <scopes>Web</scopes>
         <scopes>Full</scopes>
