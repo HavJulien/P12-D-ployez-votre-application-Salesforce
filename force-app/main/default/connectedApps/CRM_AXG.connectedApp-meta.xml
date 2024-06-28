@@ -4,7 +4,7 @@
     <label>CRM AXG</label>
     <oauthConfig>
         <callbackUrl>https://oauth.pstmn.io/v1/callback</callbackUrl>
-        <consumerKey>3MVG9YFqzc_KnL.zsA_YNxCVhTXBE0ycZEq4bNbCl9eN4_hyTTWIEk_87_tCHR.Km6m8f_3hB8SQqRLV4cgovU</consumerKey>
+        <consumerKey>3MVG9YFqzc_KnL.zsA_YNxCVhTXBE0ycZEq4bNbCl9eN4_hyTTWIEk_87_tCHR.Km6m8f_3hB8SQqRLV4cgovP</consumerKey>
         <isAdminApproved>false</isAdminApproved>
         <isClientCredentialEnabled>true</isClientCredentialEnabled>
         <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
